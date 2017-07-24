@@ -1,5 +1,6 @@
 /**
  * @author Jason Lee 676574039@qq.com
+ * 
  */
 
 THREE.MOLLoader = function ( manager ) {
